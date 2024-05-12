@@ -88,7 +88,7 @@ a{
 }
 /* hero section */
 .hero-section{
-    background-image: url('/assets/images/hero-banner.png');
+    background-image: url('../images/hero-banner.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
